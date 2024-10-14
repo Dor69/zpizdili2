@@ -1,7 +1,7 @@
 import requests
 from telegram import Update
 from telegram.ext import Application, MessageHandler, CommandHandler, filters, CallbackContext
-from io import BytesIO
+
 from config import TG_token as tg_token
 from tiktok import download_tiktok_video
 from insta import format_instagram_url, dowload_reels

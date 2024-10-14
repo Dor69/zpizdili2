@@ -1,3 +1,5 @@
 TG_token = ''
-Insta_token_pars = ''
-TTT_token_pars = ''
+Insta_key = ''
+Insta2_host = ''
+TT_key = ''
+TT_host = ''
