@@ -1,4 +1,4 @@
-# Telegram Media Downloader Bot
+# TikTok | Reels video downloader TG Bot
 
 This is a Telegram bot that downloads media from TikTok and Instagram. 
 
